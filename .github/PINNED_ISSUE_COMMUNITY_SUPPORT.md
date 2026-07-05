@@ -8,7 +8,7 @@ You can join our community chat for instant support and queries:
 
 ### 📞 Contact directly
 For urgent queries, feel free to message or call the maintainer:
-- **Phone:** `+91 9820966720`
+- **Phone:** `+91 9820866720`
 
 ### 💼 Connect with the Maintainer
 - **GitHub:** [@SatyamPandey-07](https://github.com/SatyamPandey-07)
